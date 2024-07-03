@@ -53,4 +53,4 @@ Total bobot untuk jalur A-C-E-H-J-K adalah 44.
 
 # 2. Menuliskan Edge Edge yang terhubung berdasarkan Directed Graph
 
-## Edge yang Terhubung = <A,C> <B,A> <B,C> <C,H> <C,G> <E,C> <F,H> <H,I> <I,G> <I,J> <J,K> <K,H> <K,F>
+## Edge yang Terhubung = <A,C> <B,A> <B,C> <C,D> <C,H> <C,G> <E,C> <F,E> <F,H> <H,I> <I,G> <I,J> <J,K> <K,H> <K,F>
